@@ -1,0 +1,33 @@
+/* SearchLocation.css */
+
+.search-input {
+    position: relative;
+    margin-top: 50px;
+    margin-bottom: 20px;
+  }
+  
+  .search-input input[type="text"] {
+    width: 20%;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 16px;
+    outline: none;
+  }
+  
+  .search-input input[type="text"]:focus {
+    border-color: black;
+    /* Example color change on focus, adjust as needed */
+  }
+  
+  /* Styles for the search results */
+  .search-result {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 30px;
+    margin-top:80px;
+    margin-left: 40px;
+    margin-right: 40px;
+    min-height: 50px; /* Adjust as needed */
+  }
+  

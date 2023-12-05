@@ -1,0 +1,34 @@
+.Hero {
+    margin: 0;
+    background-color: gra;
+  max-width:  100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:15px;
+    padding: 30px;
+  }
+  
+  .text-over {
+    
+    color: black; /* Example text color */
+    font-weight: 600;
+    font-size: 30px; /* Example font size */
+    
+  
+    padding: 10px; /* Example padding */
+  }
+
+  .Button button{
+    padding: 20px 40px;
+    width: 200px;
+    font-size: 22px;
+    font-weight: 600;
+    color: white;
+    background: rgba(15, 2, 15, 0.4);
+    margin-bottom: 40px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+  }
