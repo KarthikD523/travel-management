@@ -51,6 +51,8 @@ export default function Properties() {
       return (
         <PropertyCard
           key={index}
+          id={property.property_id}
+          city={property.city}
           title={property.title}
           image={property.property_url}
         />

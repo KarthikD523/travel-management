@@ -11,7 +11,7 @@ export default function Hero() {
         Where Every Journey Finds
          its Home!</div>
        <Link to='/SearchLocation'>  <div className='Button'>
-         <button  >EXPLORE</button> 
+         <button className='Hero-Button' >EXPLORE</button> 
        </div>
        </Link>
     </div>

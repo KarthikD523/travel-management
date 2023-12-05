@@ -1,0 +1,133 @@
+.property-display{
+    display: flex;
+    margin : 0px 170px;
+}
+
+.property-display-left{
+    display: flex;
+    gap: 17px;
+}
+
+.property-display-image-list{
+    display: flex;
+    flex-direction: column;
+    gap:16px;
+}
+
+.property-display-image-list img{
+    height: 163px;
+}
+.property-display-main-img{
+  
+    width: 586px;
+    height: 400px;
+}
+
+
+.propertyt-display-right{
+    display: flex;
+    flex-direction: column;
+    margin: 0px 70px;
+}
+
+.property-display-right h1{
+    color:#3d3d3d;
+    font-size: 40px;
+    font-weight: 700;
+
+}
+
+.property-display-rightPrice{
+   
+    margin: 40px ;
+    gap: 30px;
+    font-weight: 700;
+    font-size: 24px;
+    color:#3d3d3d;
+
+}
+
+.property-display-rightDescription{
+   
+    margin: 40px ;
+    gap: 30px;
+    font-weight: 700;
+    font-size: 24px;
+    color:#3d3d3d;
+
+}
+
+.property-display-rightAddress{
+   
+    margin: 40px ;
+    gap: 30px;
+    font-weight: 700;
+    font-size: 24px;
+    color:#3d3d3d;
+
+}
+.property-display-rightCity{
+   
+    margin: 40px ;
+    gap: 30px;
+    font-weight: 700;
+    font-size: 24px;
+
+
+}
+
+.property-display-rightState{
+   
+    margin: 40px ;
+    gap: 30px;
+    font-weight: 700;
+    font-size: 24px;
+
+
+}
+
+.property-display-rightRooms{
+   
+    margin: 40px ;
+    gap: 30px;
+    font-weight: 700;
+    font-size: 24px;
+    color:#3d3d3d;
+
+}
+
+.Date {
+    display: flex;
+    gap: 20px; /* Adjust the gap between the date inputs */
+    align-items: center;
+  }
+  
+  .In-Date,
+  .Out-Date {
+    width: 50%; /* Equal width for both date inputs */
+  }
+
+  input[type='date'] {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    /* Additional styles as per your preference */
+  }
+  
+  /* Styling for when the date input is focused */
+  input[type='date']:focus {
+    outline: none;
+    border-color: dodgerblue; /* Change color on focus */
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); /* Optional: Add a subtle box shadow */
+  }
+
+  .Book-Button{
+    background-color: #3498db;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  }
