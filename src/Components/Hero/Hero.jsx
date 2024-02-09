@@ -10,7 +10,7 @@ export default function Hero() {
        <div className='text-over'>Book Your Perfect Stay, 
         Where Every Journey Finds
          its Home!</div>
-       <Link to='/SearchLocation'>  <div className='Button'>
+       <Link to='/travel-management/SearchLocation'>  <div className='Button'>
          <button className='Hero-Button' >EXPLORE</button> 
        </div>
        </Link>

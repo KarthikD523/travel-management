@@ -97,8 +97,8 @@ export default function PropertyDescription() {
        <div className='property-display-left'>
           <div className='property-display-image-list'>
               <img src={property.property_url} alt="" />
-              <img src={ban_img} alt="" />
-              <img src={ban_img} alt="" />
+              <img src={property.property_url} alt="" />
+              <img src={property.property_url} alt="" />
              
           </div>
 
@@ -109,7 +109,7 @@ export default function PropertyDescription() {
         <div className='property-display-right'>
 
         <div className='property-display-img'>
-               <img className="property-display-main-img" src={ban_img} alt=""/>
+               <img className="property-display-main-img" src={property.property_url} alt=""/>
           </div>
 
       

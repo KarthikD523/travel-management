@@ -13,10 +13,10 @@ function App() {
       <BrowserRouter>
         <Navbar />
         <Routes>
-          <Route path='/' element={<Home />} />
-          <Route path='/SearchLocation' element={<SeachLocation />} />
-          <Route path='/SearchLocation/:locationName/' element={<Properties />} />
-          <Route path='/SearchLocation/:locationName/:propertyId' element={<PropertyDescription />} />
+          <Route path='/travel-management' element={<Home />} />
+          <Route path='/travel-management/SearchLocation' element={<SeachLocation />} />
+          <Route path='/travel-management/SearchLocation/:locationName/' element={<Properties />} />
+          <Route path='/travel-management/SearchLocation/:locationName/:propertyId' element={<PropertyDescription />} />
         </Routes>
       </BrowserRouter>
     </div>
