@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/travel-management/static/css/main.29810417.css",
+    "main.js": "/travel-management/static/js/main.79235da7.js",
+    "static/js/787.d1a6b7fc.chunk.js": "/travel-management/static/js/787.d1a6b7fc.chunk.js",
+    "static/media/banglorestay.png": "/travel-management/static/media/banglorestay.18483e6eed8d7e8ac225.png",
+    "static/media/Rishikesh.png": "/travel-management/static/media/Rishikesh.2dc3aa6e35445268a328.png",
+    "static/media/Kashmir.png": "/travel-management/static/media/Kashmir.04ba7eea69cfa657ae33.png",
+    "static/media/heroimg.png": "/travel-management/static/media/heroimg.2e346baa0c7c5f306c50.png",
+    "static/media/Delhi.png": "/travel-management/static/media/Delhi.d977d7a4b42177b6ead0.png",
+    "static/media/Punjab2.png": "/travel-management/static/media/Punjab2.ee87cca6e4fba11c31e7.png",
+    "static/media/Mumbai.png": "/travel-management/static/media/Mumbai.65c8ba86417da5f05150.png",
+    "static/media/Banglore.png": "/travel-management/static/media/Banglore.99dfafdea761750861a5.png",
+    "static/media/logo.svg": "/travel-management/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/travel-management/index.html",
+    "main.29810417.css.map": "/travel-management/static/css/main.29810417.css.map",
+    "main.79235da7.js.map": "/travel-management/static/js/main.79235da7.js.map",
+    "787.d1a6b7fc.chunk.js.map": "/travel-management/static/js/787.d1a6b7fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29810417.css",
+    "static/js/main.79235da7.js"
+  ]
+}
